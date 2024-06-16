@@ -9,10 +9,14 @@ TASK -2
 THE GRADE CALCULATOR
 Description - Here this is a simple GUI based project in which the user is asked the marks of their respective courses and the grade is shown on the basis of the marks.Some lag is there so after clicking the calculate button kindly fullscreen and again go to the default size screen window. Kindly suggest somethinng to improve it.
 
-TASK -3 
-STUDENT MANAGEMENT SYSTEM
-Description - Here this is a project in which we are making a database based system in which school administration would have the option to add data, search data on the basis of the unique admission number, remove data on the basis of the admission number, and also to edit a particular student's data by mentioning the admission number. The application provides user a GUI to interact with the application. Here I have used MySQL database for the storage and manipulation of data and the GUI is made using the swing framework of JAVA.
+TASK -3
+CURRENCY CONVERTER
+Description - Here I have to make an application in which i will provide the currency i want to convert to some another currency of my choice. I have used an external API for this and it is free to use and allows only 1500 calls per month. It provides you JSON output as your response and then you have to convert in terms of java object. 
 
 TASK -4
 ATM INTERFACE
 Description - Here my goal was just to design the Graphical User Interface of the ATM and so have I done in this project. The user can deposit, withdraw or check it's balance and since there is no storage of data into the database so it's not working simultaneously.(You can't withdraw your money after deposition over here)
+
+TASK -5
+STUDENT MANAGEMENT SYSTEM
+Description - Here this is a project in which we are making a database based system in which school administration would have the option to add data, search data on the basis of the unique admission number, remove data on the basis of the admission number, and also to edit a particular student's data by mentioning the admission number. The application provides user a GUI to interact with the application. Here I have used MySQL database for the storage and manipulation of data and the GUI is made using the swing framework of JAVA.
